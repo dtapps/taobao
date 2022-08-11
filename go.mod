@@ -1,11 +1,11 @@
 module go.dtapp.net/taobao
 
-go 1.18
+go 1.19
 
 require (
-	go.dtapp.net/dorm v1.0.13
-	go.dtapp.net/golog v1.0.18
-	go.dtapp.net/gorequest v1.0.23
+	go.dtapp.net/dorm v1.0.14
+	go.dtapp.net/golog v1.0.21
+	go.dtapp.net/gorequest v1.0.24
 	go.dtapp.net/gostring v1.0.6
 	go.dtapp.net/gotime v1.0.5
 	gorm.io/gorm v1.23.8
@@ -64,7 +64,7 @@ require (
 	github.com/xdg-go/scram v1.1.1 // indirect
 	github.com/xdg-go/stringprep v1.0.3 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20201027041543-1326539a0a0a // indirect
-	go.dtapp.net/goip v1.0.23 // indirect
+	go.dtapp.net/goip v1.0.24 // indirect
 	go.dtapp.net/gojson v1.0.1 // indirect
 	go.dtapp.net/gorandom v1.0.1 // indirect
 	go.dtapp.net/goxml v1.0.1 // indirect
