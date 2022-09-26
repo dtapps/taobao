@@ -24,7 +24,7 @@ type TbkDgOptimusMaterialResponse struct {
 				CouponTotalCount     int    `json:"coupon_total_count"`
 				CpaRewardType        string `json:"cpa_reward_type"`
 				ItemDescription      string `json:"item_description"`
-				ItemId               int64  `json:"item_id"`
+				ItemId               string `json:"item_id"`
 				JhsPriceUspList      string `json:"jhs_price_usp_list"`
 				LevelOneCategoryId   int64  `json:"level_one_category_id"`
 				LevelOneCategoryName string `json:"level_one_category_name"`
