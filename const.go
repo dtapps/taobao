@@ -6,5 +6,5 @@ const (
 
 const (
 	LogTable = "taobao"
-	Version  = "1.0.12"
+	Version  = "1.0.13"
 )
