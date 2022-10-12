@@ -5,8 +5,6 @@ go 1.19
 require (
 	go.dtapp.net/golog v1.0.101
 	go.dtapp.net/gorequest v1.0.32
-	go.dtapp.net/gostring v1.0.10
-	go.dtapp.net/gotime v1.0.5
 )
 
 require (
@@ -75,6 +73,8 @@ require (
 	go.dtapp.net/dorm v1.0.51 // indirect
 	go.dtapp.net/goip v1.0.38 // indirect
 	go.dtapp.net/gorandom v1.0.1 // indirect
+	go.dtapp.net/gostring v1.0.10 // indirect
+	go.dtapp.net/gotime v1.0.5 // indirect
 	go.dtapp.net/gotrace_id v1.0.6 // indirect
 	go.dtapp.net/gourl v1.0.0 // indirect
 	go.mongodb.org/mongo-driver v1.10.3 // indirect
