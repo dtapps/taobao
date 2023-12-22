@@ -13,5 +13,5 @@
 #### 安装
 
 ```shell
-go get -v -u go.dtapp.net/taobao
+go get -v -u go.dtapp.net/taobao@v1.0.14
 ```
